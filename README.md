@@ -1,4 +1,4 @@
-# ExmouthViewHotel
+# Exmouth View Hotel
 
 https://spikedasp47.github.io/ExmouthViewHotel/
 
