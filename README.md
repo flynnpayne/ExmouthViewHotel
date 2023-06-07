@@ -1,6 +1,6 @@
 # Exmouth View Hotel
 
-https://spikedasp47.github.io/ExmouthViewHotel/
+https://flynnpayne.github.io/ExmouthViewHotel/
 
 Assignment for BCDE151 User Experience as part of the Diploma of Website Development and Design at Ara Institute of Canterbury.
 
